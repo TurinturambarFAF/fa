@@ -339,7 +339,7 @@ Description = {
 
     -- AEON -- Support Commander Units/Upgrades
     ['ual0301'] = "<LOC Unit_Description_0167> A multi-purpose construction, repair, capture and reclamation unit. Equivalent to a Tech 3 Engineer.",
-    ['ual0301-efm'] = "<LOC Unit_Description_0168>Speeds up all engineering-related functions.",
+    ['ual0312'] = "<LOC Unit_Description_0168> Engineering SCU.",
     ['ual0301-ras'] = "<LOC Unit_Description_0169> Increases SACU's resource generation.",
     ['ual0301-sp'] = "<LOC Unit_Description_0170>SACU is sacrificed and its Mass is added to a structure. This destroys the SACU.",
     ['ual0301-tsg'] = "<LOC Unit_Description_0171> Creates a protective shield around the SACU.",
