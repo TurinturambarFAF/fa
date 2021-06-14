@@ -151,8 +151,8 @@ UnitBlueprint {
         AirThreatLevel = 0,
         ArmorType = 'Normal',
         EconomyThreatLevel = 0,
-        Health = 15000,
-        MaxHealth = 15000,
+        Health = 4500,
+        MaxHealth = 4500,
         RegenRate = 17,
         SubThreatLevel = 0,
         SurfaceThreatLevel = 150,
@@ -305,10 +305,10 @@ UnitBlueprint {
         },
     },
     Economy = {
-        BuildCostEnergy = 55000,
-        BuildCostMass = 3000,
+        BuildCostEnergy = 22500,
+        BuildCostMass = 1500,
         BuildRate = 100,
-        BuildTime = 14400,
+        BuildTime = 6000,
         BuildableCategory = {
             'BUILTBYTIER3ENGINEER AEON',
         },
@@ -439,7 +439,7 @@ UnitBlueprint {
             BallisticArc = 'RULEUBA_LowArc',
             ChargeDelay = 0.3,
             CollideFriendly = false,
-            Damage = 300,
+            Damage = 100,
             DamageType = 'Normal',
             DisplayName = 'Reacton Cannon',
             FireTargetLayerCapsTable = {
