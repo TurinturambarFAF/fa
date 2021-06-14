@@ -148,7 +148,7 @@ UnitBlueprint {
         SubThreatLevel = 0,
         SurfaceThreatLevel = 150,
     },
-    Description = '<LOC uel0301_desc>Support Armored Command Unit',
+    Description = '<LOC uel0311_desc>Support Armored Command Unit',
     Display = {
         Abilities = {
             '<LOC ability_amphibious>Amphibious',
