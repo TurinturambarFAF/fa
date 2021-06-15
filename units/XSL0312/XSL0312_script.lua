@@ -14,7 +14,7 @@ local SDFLightChronotronCannonWeapon = SWeapons.SDFLightChronotronCannonWeapon
 local SDFOverChargeWeapon = SWeapons.SDFLightChronotronCannonOverchargeWeapon
 local SIFLaanseTacticalMissileLauncher = SWeapons.SIFLaanseTacticalMissileLauncher
 
-XSL0311 = Class(CommandUnit) {
+XSL0312 = Class(CommandUnit) {
     Weapons = {
         LightChronatronCannon = Class(SDFLightChronotronCannonWeapon) {},
         DeathWeapon = Class(SCUDeathWeapon) {},
@@ -46,4 +46,4 @@ XSL0311 = Class(CommandUnit) {
     end,
 }
 
-TypeClass = XSL0311
+TypeClass = XSL0312
